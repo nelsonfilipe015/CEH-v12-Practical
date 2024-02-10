@@ -1,4 +1,4 @@
-# CEH-v12-Practical
+# CEH-v12-Practical test
 **Module 03: Scanning Networks**
 
 **Lab1-Task1: Host discovery**
